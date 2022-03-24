@@ -4,7 +4,7 @@ private class HelloWorldTestClass {
        Book__c b = new Book__c(Name='Behind the Cloud', Price__c=100);
        System.debug('Price before inserting new book: ' + b.Price__c);
 
-       // Insert book
+       // Insert booke
        insert b;
     
        // Retrieve the new book
