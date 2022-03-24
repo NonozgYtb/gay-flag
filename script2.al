@@ -7,6 +7,3 @@ pageextension 12345 NotFound extends "I dont know"
         Message("The gay flag forever");
     end;
 }
-
-
-

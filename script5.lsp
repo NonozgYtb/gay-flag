@@ -1,9 +1,9 @@
-(register-vl-app "SOFTWARE\\your_app_name
+(register-vl-app "SOFTWARE\\your
 [loadctrls]
 )
-(register-vl-app "SOFTWARE\\your_app_na
+(register-vl-app "SOFTWARE\\your
 [loadctrls]
 )
-(register-vl-app "SOFTWARE\\your_app_na
+(register-vl-app "SOFTWARE\\your
 [loadctrls]
 )
